@@ -1,0 +1,9 @@
+﻿background:change:DialogSystem/Sample_Background/background03_light
+spawn:DialogSystem/Sample_Characters/Character1:noel:sound:DialogSystem/Sample_Sounds/door_close:
+spawn_from_left_to_left:DialogSystem/Sample_Characters/Character2:emp
+noel:노엘:제가 대사를 치죠.
+emp:황제:그래. 그러면 이렇게 되겠군.
+noel:노엘:좌우로 이어서 말이죠.
+emp:황제:계속 이어지겠지.
+spawn_replace_to_left:DialogSystem/Sample_Characters/Character2:한글
+한글:테스트:한글도 가능할겁니다.

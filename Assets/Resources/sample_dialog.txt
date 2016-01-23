@@ -1,0 +1,12 @@
+initial:background:change:DialogSystem/Sample_Background/background03_light
+spawn:DialogSystem/Sample_Characters/Character1:noel:sound:DialogSystem/Sample_Sounds/door_close:
+spawn_from_left_to_left:DialogSystem/Sample_Characters/Character2:emp
+noel:노엘:예제 텍스트입니다.
+background:change:DialogSystem/Sample_Background/background03_shadow
+emp:황제:그렇지.
+spawn_from_top:DialogSystem/Sample_Characters/Character1:inter
+noel:_fadeout::emp:_remove:
+inter:NPC:과연 그럴까?
+noel:_fadein:
+inter:_fadeout:
+noel:_remove:
