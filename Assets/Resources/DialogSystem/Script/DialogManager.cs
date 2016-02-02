@@ -127,6 +127,7 @@ namespace DialogSystem
                 }
 
             }
+            
         }
 
         public void Reset()
@@ -377,6 +378,7 @@ namespace DialogSystem
 
                         break;
                     case "_wiggle":
+
 
                         break;
                     case "_remove":
